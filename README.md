@@ -25,12 +25,9 @@
 
 
 ### <a name="Description"></a>Description
-Workout-Tracker provides the user with plenty of functionality to help them reach their fitness goals. Users are able to...
-* Log multiple exercises in a workout
-* Track the name, type, weight, sets, reps, and duration of each exercise
-* Track the distance traveled if the exercise was cardio based
-* View past workouts
+GoogleBookSearchApp is a React-based Google Books Search app that allows users to search for books via the Google Books API. Users have the option to "Save" a book, saving it to the Mongo database. Users have the option to "View" the book, bringing them to the book on Google Books, or "Delete" a book, removing it from the Mongo database.
 
+GoogleBookSearchApp uses React to create React components, works with helper/util functions, and utilizes React lifecycle methods to query and display books based on user searches. Node, Express, and MongoDB are also used so that users can save books to review or purchase later. Bootstrap is used for the styling.
 
 ## Screenshots
 ![Screen Shot 2021-04-19 at 8 17 09 PM](https://user-images.githubusercontent.com/77504986/115332712-39404880-a14d-11eb-8c3c-7a84922944b8.png)
